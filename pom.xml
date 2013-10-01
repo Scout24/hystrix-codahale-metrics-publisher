@@ -11,7 +11,7 @@
     <name>hystrix codahale metrics publisher</name>
     <description>This is an implementation of HystrixMetricsPublisher that publishes metrics using Codahale Metrics.
     </description>
-    <url>https://github.com/ImmobilienScout24/deadcode4j</url>
+    <url>https://github.com/ImmobilienScout24/hystrix-codahale-metrics-publisher</url>
 
     <parent>
         <groupId>org.sonatype.oss</groupId>
