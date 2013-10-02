@@ -6,6 +6,13 @@ This is an implementation of [HystrixMetricsPublisher](http://netflix.github.com
 Usage
 -----
 
+```xml
+<dependency>
+    <groupId>de.is24.hystrix</groupId>
+    <artifactId>hystrix-codahale-metrics-publisher</artifactId>
+    <version>1.0</version>
+</dependency>
+```
       HystrixPlugins.getInstance().registerMetricsPublisher(new HystrixCodahaleMetricsPublisher(yourMetricRegistry));
       
 See the Hystrix [Metrics & Monitoring](https://github.com/Netflix/Hystrix/wiki/Metrics-and-Monitoring) Wiki for more information.
