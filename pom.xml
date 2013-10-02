@@ -4,7 +4,7 @@
 
     <groupId>de.is24.hystrix</groupId>
     <artifactId>hystrix-codahale-metrics-publisher</artifactId>
-    <version>1.0</version>
+    <version>1.1-SNAPSHOT</version>
 
     <name>hystrix codahale metrics publisher</name>
     <description>This is an implementation of HystrixMetricsPublisher that publishes metrics using Codahale Metrics.
