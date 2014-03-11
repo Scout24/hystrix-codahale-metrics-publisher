@@ -1,4 +1,4 @@
-hystrix-codahale-metrics-publisher
+hystrix-codahale-metrics-publisher [![Build Status](https://travis-ci.org/ImmobilienScout24/hystrix-codahale-metrics-publisher.png?branch=master)](https://travis-ci.org/ImmobilienScout24/hystrix-codahale-metrics-publisher)
 ===================================
 
 This is an implementation of [HystrixMetricsPublisher](http://netflix.github.com/Hystrix/javadoc/index.html?com/netflix/hystrix/strategy/metrics/HystrixMetricsPublisher.html) that publishes metrics using [Coda Hale Yammer Metrics](http://metrics.codahale.com) Version 3.
